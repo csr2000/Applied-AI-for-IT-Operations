@@ -1,2 +1,2 @@
 # Applied-AI-for-IT-Operations
-LinkedIn Course
+LinkedIn Course by Mr. Kumaran Ponnambalam
